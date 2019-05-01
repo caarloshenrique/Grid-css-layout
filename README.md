@@ -2,6 +2,8 @@
 
 💻 Layout developed using the Bootstrap tool for the Web Development discipline 1
 
+## Getting Started
+
 ### Installing
 
 Include Bootstrap’s source Sass and JavaScript files via npm, Composer or Meteor. Package managed installs don’t include documentation, but do include our build system and readme.
