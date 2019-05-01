@@ -1,0 +1,44 @@
+@media (min-width: 768px) {
+  .teste1,
+  .teste2 {
+    height: 50%;
+    width: 18rem;
+  }
+  .alinha-botao {
+    margin: 0 auto;
+    width: 80%;
+  }
+}
+
+@media (max-width: 768px) {
+  .teste1 {
+    display: grid;
+    grid-area: "three";
+    justify-self: center;
+    width: 10rem;
+    height: 10vh;
+  }
+
+  .sexo{
+    margin-bottom: 20px;
+  }
+
+  .teste2 {
+    height: 10vh;
+    display: grid;
+    grid-area: "four";
+    justify-self: center;
+    width: 10rem;
+  }
+
+  .secundarios {
+    margin: 0 auto;
+    width: 100%;
+    display: grid;
+    grid-template-areas: "three four";
+  }
+  .alinha-botao {
+    margin: 0 auto;
+    width: 100%;
+  }
+}
