@@ -2,6 +2,12 @@
 
 💻 Layout developed using the Bootstrap tool for the Web Development discipline 1
 
+### Layout
+
+<img src="/img/layout-1.PNG">
+
+<img src="/img/layout-2.PNG">
+
 ## Getting Started
 
 ### Installing
