@@ -4,9 +4,7 @@
 
 ### Layout
 
-<img src="/img/layout-1.PNG">
-
-<img src="/img/layout-2.PNG">
+<img src="/img/form.png">
 
 ## Getting Started
 
