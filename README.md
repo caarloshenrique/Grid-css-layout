@@ -23,3 +23,5 @@ $ gem install bootstrap -v 4.3.1
 ## Built With
 
 * [Bootstrap 4](https://getbootstrap.com/docs/4.0/getting-started/introduction/) - The web framework used
+
+<p align="center" style="margin-top: 20px; border-top: 1px solid #eee; padding-top: 20px;">Feito com :heart: por <strong> Carlos Henrique da Costa Silva </strong> </p>
