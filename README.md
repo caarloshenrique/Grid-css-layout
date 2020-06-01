@@ -2,27 +2,16 @@
 
 💻 Layout developed using the Bootstrap tool for the Web Development discipline 1
 
+## :rocket: Tecnologias utilizadas 
+O projeto foi feito utilizando as seguintes tecnologias:
+
+- [HTML](https://www.w3schools.com/html/)
+- [CSS](https://www.w3schools.com/css/)
+- [Bootstrap 4](https://getbootstrap.com/docs/4.0/getting-started/introduction/)
+{...}
+
 ### Layout
-
 <img src="/img/form.png">
-
-## Getting Started
-
-### Installing
-
-Include Bootstrap’s source Sass and JavaScript files via npm, Composer or Meteor. Package managed installs don’t include documentation, but do include our build system and readme.
-
-```
-$ npm install bootstrap
-```
-
-```
-$ gem install bootstrap -v 4.3.1
-```
-
-## Built With
-
-* [Bootstrap 4](https://getbootstrap.com/docs/4.0/getting-started/introduction/) - The web framework used
 
 ## :page_facing_up: Licença 
 Este projeto é desenvolvido sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para saber mais detalhes.
