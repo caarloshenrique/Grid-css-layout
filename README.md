@@ -1,6 +1,9 @@
 # Grid-css-layout
 
-💻 Layout developed using the Bootstrap tool for the Web Development discipline 1
+💻 Layout desenvolvido utilizando a ferramenta Bootstrap para a disciplina de Desenvolvimento Web 1
+
+### Layout
+<img src="/img/form.png">
 
 ## :rocket: Tecnologias utilizadas 
 O projeto foi feito utilizando as seguintes tecnologias:
@@ -9,9 +12,6 @@ O projeto foi feito utilizando as seguintes tecnologias:
 - [CSS](https://www.w3schools.com/css/)
 - [Bootstrap 4](https://getbootstrap.com/docs/4.0/getting-started/introduction/)
 {...}
-
-### Layout
-<img src="/img/form.png">
 
 ## :page_facing_up: Licença 
 Este projeto é desenvolvido sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para saber mais detalhes.
